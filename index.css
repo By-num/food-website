@@ -13,7 +13,7 @@
 }
 a{
     text-decoration: none;
-    color: black;
+    color: red;
 }
 .header{
     margin-top: 80px;
@@ -24,7 +24,7 @@ a{
     width: 220px;
     padding: 20px;
     height: 170px;
-    background-color: black;
+    background-color: pink;
     border-radius: 7px;
     text-align: center;
 }
